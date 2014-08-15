@@ -56,7 +56,7 @@ int main(int argc, const char * argv[])
         
         if(operacion < 100)
         {
-            NSLog(@"Mensaje uno");
+            NSLog(@"Mensaje uno1");
         }
         else
         {
